@@ -23,3 +23,9 @@ To mitigate and prevent CWE-79/XSS vulnerabilities, web developers should follow
     Regular Security Audits: Conduct regular security audits and penetration testing to identify and remediate XSS vulnerabilities in your web application.
 
 In summary, CWE-79, or Cross-site Scripting (XSS), is a significant security concern in web applications. It's crucial for developers to be aware of this vulnerability and take proactive measures to prevent it, as it can have serious consequences for both users and the organization hosting the application.
+
+
+
+
+
+WEBSITE : https://vespa.games
